@@ -1,5 +1,5 @@
 # pytorch_usage-torchvision
-An example of using PyTorch vision models
+An example of using **PyTorch** vision models
 
 + [Here](https://github.com/tsujuifu/pytorch_usage-torchvision/blob/master/Inference.ipynb) presents the usage of  [**torchvision.models**](https://pytorch.org/docs/stable/torchvision/models.html)
 + Don't forget to **normalize** before feeding into the model
